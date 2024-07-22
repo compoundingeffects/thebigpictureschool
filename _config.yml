@@ -7,17 +7,4 @@ url: https://compoundingeffects.github.io/bigpictureschool
 aux_links:
   Template Repository: https://github.com/compoundingeffects/bigpictureschool
 
----
-layout: default
-title: Law
-nav_order: 2
-has_children: true
----
-
----
-layout: default
-title: Contracts Law
-parent: Law
-nav_order: 2
----
 
