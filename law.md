@@ -52,14 +52,3 @@ Underlying all laws are fundamental principles that guide their creation and int
 - **Human Dignity**: Respecting and protecting the inherent worth of every individual.
 
 By breaking down the concept of law into these fundamental elements, we can understand its purpose, structure, and function from first principles. This approach reveals that law is a human construct designed to fulfill basic social needs, ensure justice and fairness, and adapt to the evolving conditions of society.
-
-----
-
-[^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
-
-[Just the Docs]: https://just-the-docs.github.io/just-the-docs/
-[GitHub Pages]: https://docs.github.com/en/pages
-[README]: https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md
-[Jekyll]: https://jekyllrb.com
-[GitHub Pages / Actions workflow]: https://github.blog/changelog/2022-07-27-github-pages-custom-github-actions-workflows-beta/
-[use this template]: https://github.com/just-the-docs/just-the-docs-template/generate
