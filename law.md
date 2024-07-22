@@ -4,7 +4,7 @@ title: Law
 nav_order: 2
 has_children: true
 ---
-# Law
+# **Law**
 
 ## 1. Human Nature and Social Needs
 At the most fundamental level, laws arise from human nature and the necessity for social order. Humans have a basic need to live in organized communities for safety, cooperation, and mutual benefit.
