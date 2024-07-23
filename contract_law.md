@@ -5,7 +5,7 @@ parent: Law
 nav_order: 1
 ---
 
-# Contract Law
+# **Contract Law**
 
 ## 1. **Human Interaction and Agreements**
 At its core, contract law is about regulating agreements between individuals or entities. Humans interact and often need to exchange goods, services, or promises to facilitate these interactions.
