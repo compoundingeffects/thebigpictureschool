@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Law
+title: Physics
 nav_order: 3
 has_children: true
 ---
