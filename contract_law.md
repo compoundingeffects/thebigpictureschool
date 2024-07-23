@@ -7,13 +7,13 @@ nav_order: 1
 
 # **Contract Law**
 
-## 1. **Human Interaction and Agreements**
+## 1. Human Interaction and Agreements
 At its core, contract law is about regulating agreements between individuals or entities. Humans interact and often need to exchange goods, services, or promises to facilitate these interactions.
 
-## 2. **Promises and Reliance**
+## 2. Promises and Reliance
 A contract fundamentally involves promises. When one party makes a promise, the other party often relies on that promise. This reliance can involve acting or refraining from acting in a certain way. For a functional society, these promises need to be reliable and enforceable.
 
-## 3. **Principles of Contract Law**
+## 3. Principles of Contract Law
 
 1. **Offer and Acceptance:**
    - **Offer:** One party proposes the terms of an agreement.
@@ -35,7 +35,7 @@ A contract fundamentally involves promises. When one party makes a promise, the 
 5. **Legality:**
    - The contract's purpose must be lawful. Contracts for illegal activities are not enforceable.
 
-## 4. **Functions of Contract Law**
+## 4. Functions of Contract Law
 
 1. **Enforcement:**
    - Contract law provides mechanisms for enforcing promises. If a party fails to fulfill their promise (breach of contract), the law provides remedies.
@@ -49,7 +49,7 @@ A contract fundamentally involves promises. When one party makes a promise, the 
    - Contract law aims to ensure fairness in agreements. For instance, it can invalidate contracts that are unconscionable or made under duress or fraud.
    - It provides a framework to resolve disputes fairly, based on established legal principles.
 
-## 5. **Types of Contracts**
+## 5. Types of Contracts
 
 1. **Express and Implied Contracts:**
    - **Express Contracts:** Terms are clearly stated, either orally or in writing.
@@ -63,7 +63,7 @@ A contract fundamentally involves promises. When one party makes a promise, the 
    - **Executory Contracts:** Some terms are yet to be performed.
    - **Executed Contracts:** All terms have been fulfilled.
 
-## 6. **Breaking Down Enforcement Mechanisms**
+## 6. Breaking Down Enforcement Mechanisms
 
 1. **Damages:**
    - **Compensatory Damages:** Compensate for actual losses.
@@ -77,6 +77,6 @@ A contract fundamentally involves promises. When one party makes a promise, the 
 3. **Rescission and Restitution:**
    - Rescission cancels the contract, and restitution restores the parties to their original state.
 
-## 7. **Conclusion**
+## 7. Conclusion
 
 By breaking down contract law into these fundamental principles, we see that it is about creating, understanding, and enforcing promises to ensure reliable and fair exchanges in society. This foundation supports more complex legal structures and enables societal and economic interactions to function smoothly.
