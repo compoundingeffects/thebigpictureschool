@@ -5,33 +5,78 @@ parent: Law
 nav_order: 1
 ---
 
-This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
+# Contract Law
 
-If [Jekyll] is installed on your computer, you can also build and preview the created site *locally*. This lets you test changes before committing them, and avoids waiting for GitHub Pages.[^1] And you will be able to deploy your local build to a different platform than GitHub Pages.
+## 1. **Human Interaction and Agreements**
+At its core, contract law is about regulating agreements between individuals or entities. Humans interact and often need to exchange goods, services, or promises to facilitate these interactions.
 
-More specifically, the created site:
+## 2. **Promises and Reliance**
+A contract fundamentally involves promises. When one party makes a promise, the other party often relies on that promise. This reliance can involve acting or refraining from acting in a certain way. For a functional society, these promises need to be reliable and enforceable.
 
-- uses a gem-based approach, i.e. uses a `Gemfile` and loads the `just-the-docs` gem
-- uses the [GitHub Pages / Actions workflow] to build and publish the site on GitHub Pages
+## 3. **Principles of Contract Law**
 
-Other than that, you're free to customize sites that you create with this template, however you like. You can easily change the versions of `just-the-docs` and Jekyll it uses, as well as adding further plugins.
+1. **Offer and Acceptance:**
+   - **Offer:** One party proposes the terms of an agreement.
+   - **Acceptance:** The other party agrees to those terms.
+   - Without an offer and a corresponding acceptance, there is no mutual agreement.
 
-[Browse our documentation][Just the Docs] to learn more about how to use this theme.
+2. **Consideration:**
+   - Each party must provide something of value in exchange for the promise. This can be money, services, goods, or a promise to do or not do something.
+   - Consideration differentiates a contract from a gift.
 
-To get started with creating a site, simply:
+3. **Mutual Assent:**
+   - Both parties must have a meeting of the minds, meaning they both understand and agree to the essential terms of the contract.
+   - This involves clear communication and agreement on the terms.
 
-1. click "[use this template]" to create a GitHub repository
-2. go to Settings > Pages > Build and deployment > Source, and select GitHub Actions
+4. **Capacity:**
+   - The parties must have the legal capacity to enter into a contract. This generally means they are of legal age and have the mental competence to understand the contract.
+   - Certain individuals, like minors or those with significant mental impairments, may lack the capacity to contract.
 
-If you want to maintain your docs in the `docs` directory of an existing project repo, see [Hosting your docs from an existing project repo](https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md#hosting-your-docs-from-an-existing-project-repo) in the template README.
+5. **Legality:**
+   - The contract's purpose must be lawful. Contracts for illegal activities are not enforceable.
 
-----
+## 4. **Functions of Contract Law**
 
-[^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
+1. **Enforcement:**
+   - Contract law provides mechanisms for enforcing promises. If a party fails to fulfill their promise (breach of contract), the law provides remedies.
+   - Common remedies include damages (monetary compensation), specific performance (fulfilling the terms of the contract), or cancellation and restitution (returning the parties to their pre-contract state).
 
-[Just the Docs]: https://just-the-docs.github.io/just-the-docs/
-[GitHub Pages]: https://docs.github.com/en/pages
-[README]: https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md
-[Jekyll]: https://jekyllrb.com
-[GitHub Pages / Actions workflow]: https://github.blog/changelog/2022-07-27-github-pages-custom-github-actions-workflows-beta/
-[use this template]: https://github.com/just-the-docs/just-the-docs-template/generate
+2. **Predictability:**
+   - By enforcing contracts, the law creates a predictable environment for individuals and businesses. They can plan their affairs knowing that agreements will be upheld.
+   - This predictability is essential for economic transactions and societal stability.
+
+3. **Fairness and Justice:**
+   - Contract law aims to ensure fairness in agreements. For instance, it can invalidate contracts that are unconscionable or made under duress or fraud.
+   - It provides a framework to resolve disputes fairly, based on established legal principles.
+
+## 5. **Types of Contracts**
+
+1. **Express and Implied Contracts:**
+   - **Express Contracts:** Terms are clearly stated, either orally or in writing.
+   - **Implied Contracts:** Terms are inferred from the parties' actions or circumstances.
+
+2. **Bilateral and Unilateral Contracts:**
+   - **Bilateral Contracts:** Both parties make promises to each other (e.g., a sale agreement).
+   - **Unilateral Contracts:** One party makes a promise that the other party can accept only by performing a specific act (e.g., a reward offer).
+
+3. **Executory and Executed Contracts:**
+   - **Executory Contracts:** Some terms are yet to be performed.
+   - **Executed Contracts:** All terms have been fulfilled.
+
+## 6. **Breaking Down Enforcement Mechanisms**
+
+1. **Damages:**
+   - **Compensatory Damages:** Compensate for actual losses.
+   - **Punitive Damages:** Punish and deter wrongful conduct.
+   - **Nominal Damages:** Recognize a breach with no substantial loss.
+   - **Liquidated Damages:** Pre-determined amount stipulated in the contract.
+
+2. **Specific Performance:**
+   - Orders the breaching party to perform the contract terms when monetary damages are inadequate.
+
+3. **Rescission and Restitution:**
+   - Rescission cancels the contract, and restitution restores the parties to their original state.
+
+## 7. **Conclusion**
+
+By breaking down contract law into these fundamental principles, we see that it is about creating, understanding, and enforcing promises to ensure reliable and fair exchanges in society. This foundation supports more complex legal structures and enables societal and economic interactions to function smoothly.
