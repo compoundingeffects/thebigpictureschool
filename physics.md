@@ -23,7 +23,7 @@ Four main forces control how particles interact:
 
 ## 3. Key Rules
 
-- **Things Stay the Same:** In a closed system:
+- **Things Stay the Same:** In a sealed system:
   - **Conservation of Mass-Energy**: Total mass-energy doesn't change (E = mc²).
   - **Conservation of Momentum**: Total momentum stays constant.
   - **Conservation of Angular Momentum**: Total spin (angular momentum) doesn't change.
