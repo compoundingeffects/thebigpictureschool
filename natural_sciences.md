@@ -5,10 +5,3 @@ nav_order: 2
 has_children: true
 ---
 # **Natural Sciences**
-
-- **Physics**
-- **Chemistry**
-- **Biology**
-- **Astronomy**
-- **Earth Sciences (Geology, Meteorology, Oceanography)**
-
