@@ -21,7 +21,7 @@ Four main forces control how things interact:
 3. **Strong Nuclear Force:** Holds the tiniest things together.
 4. **Weak Nuclear Force:** Changes some tiny things into other tiny things.
 
-## 3. Key Rules
+## 3. Key Principles
 
 - **Things Stay the Same:** In a sealed system:
   - **Conservation of Mass-Energy**: Total mass-energy doesn't change (E = mc²).
@@ -31,7 +31,7 @@ Four main forces control how things interact:
 
 - **Symmetry Matters:** Physics laws work the same everywhere and in every direction.
 
-## 4. Key Equations
+## 4. Core Equations
 
 - **Newton's Laws of Motion:**
   1. **First Law (Inertia)**: Things keep moving unless something stops them.
@@ -42,13 +42,13 @@ Four main forces control how things interact:
 - **Schrödinger's Equation:** Explains how very small things behave over time.
 - **Einstein's Field Equations:** Shows how matter and energy bend space and time.
 
-## 5. Quantum Mechanics
+## 5. Quantum Mechanics Basics
 
 - **Wave-Particle Duality:** Tiny things act like both waves and particles.
 - **Uncertainty Principle:** Can't know exactly where something is and how fast it's moving.
 - **Quantum Entanglement:** Some particles affect each other instantly, no matter how far apart.
 
-## 6. Building Bigger Ideas
+## 6. Building Up from Basics
 
 From these basics, we can understand more complex things like:
 
