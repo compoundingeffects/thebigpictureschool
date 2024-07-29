@@ -1,9 +1,11 @@
 ---
 layout: default
 title: Physics
-nav_order: 3
+parent: Natural Sciences
+nav_order: 1
 has_children: true
 ---
+
 # **Physics**
 
 First principles thinking involves breaking down complex problems into their most basic, foundational elements and then building up from there. Applying this approach to physics, we start with the most fundamental principles and concepts that form the basis of our understanding of the physical world.
