@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Physics
-nav_order: 3
+title: Chemistry
+nav_order: 4
 has_children: true
 ---
 # **Physics**
