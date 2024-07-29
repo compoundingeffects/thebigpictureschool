@@ -23,7 +23,7 @@ Four main forces control how pieces of things (particles) interact with each oth
 
 ## 3. Key Principles
 
-- **Things Stay the Same:** In a sealed system:
+- **Things stay the same in a sealed system (conservation laws):**
   - **Conservation of Mass-Energy**: Total mass-energy doesn't change (E = mc²).
   - **Conservation of Momentum**: Total momentum stays constant.
   - **Conservation of Angular Momentum**: Total spin (angular momentum) doesn't change.
