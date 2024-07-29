@@ -31,22 +31,22 @@ Four main forces control how particles interact:
 
 - **Symmetry Matters:** Physics laws work the same everywhere and in every direction.
 
-## 4. Important Equations
+## 4. Fundamental Equations
 
-- **Newton's Motion Laws:**
-  1. Things keep moving unless something stops them.
-  2. Force = mass × acceleration (F = ma).
-  3. Every push has an equal push back.
+- **Newton's Laws of Motion:**
+  1. **First Law (Inertia)**: Things keep moving unless something stops them.
+  2. **Second Law (F=ma)**: Force = mass × acceleration (F = ma).
+  3. **Third Law (Action-Reaction)**: Every push has an equal push back.
 
-- **Maxwell's Rules:** Describe how electricity and magnetism work.
+- **Maxwell's Equations:** Describe how electricity and magnetism work.
 - **Schrödinger's Equation:** Explains how very small things behave over time.
-- **Einstein's Gravity Equation:** Shows how matter bends space and time.
+- **Einstein's Field Equations:** Shows how matter and energy bend space and time.
 
-## 5. Weird Quantum Stuff
+## 5. Quantum Mechanics
 
-- **Wave-Particle Confusion:** Tiny things act like both waves and particles.
-- **Uncertainty Rule:** Can't know exactly where something is and how fast it's moving.
-- **Spooky Connection:** Some particles affect each other instantly, no matter how far apart.
+- **Wave-Particle Duality:** Tiny things act like both waves and particles.
+- **Uncertainty Principle:** Can't know exactly where something is and how fast it's moving.
+- **Quantum Entanglement:** Some particles affect each other instantly, no matter how far apart.
 
 ## 6. Building Bigger Ideas
 
