@@ -10,16 +10,16 @@ nav_order: 1
 ## 1. Basic Building Blocks
 
 - **Matter and Energy:** Everything is either things (matter) or the ability to change things (energy).
-- **Elementary Particles:** Matter is made up of tiny things (elementary particles), such as quarks and electrons.
+- **Elementary Particles:** Matter is made up of tiny pieces of things (elementary particles), such as quarks and electrons.
 
 ## 2. Main Forces
 
-Four main forces control how things interact:
+Four main forces control how pieces of things interact:
 
 1. **Gravity:** Pulls things together.
-2. **Electromagnetism:** Pushes or pulls electric things.
-3. **Strong Nuclear Force:** Holds the tiniest things together.
-4. **Weak Nuclear Force:** Changes some tiny things into other tiny things.
+2. **Electromagnetism:** Pushes or pulls electric pieces of things.
+3. **Strong Nuclear Force:** Holds the tiniest pieces of things together.
+4. **Weak Nuclear Force:** Changes some tiny pieces of things into other tiny pieces of things.
 
 ## 3. Key Principles
 
