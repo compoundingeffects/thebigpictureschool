@@ -29,7 +29,7 @@ Four main forces control how pieces of things (particles) interact with each oth
   - **Conservation of Angular Momentum**: Total spin (angular momentum) doesn't change.
   - **Conservation of Charge**: Total electric charge remains the same.
 
-- **Symmetry Matters:** Physics laws work the same everywhere and in every direction.
+- **Symmetry matters:** Physics laws work the same everywhere and in every direction.
 
 ## 4. Core Equations
 
