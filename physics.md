@@ -24,10 +24,10 @@ Four main forces control how particles interact:
 ## 3. Key Rules
 
 - **Things Stay the Same:** In a closed system:
-  - Total mass-energy doesn't change (E = mc²).
-  - Total momentum stays constant.
-  - Total spin (angular momentum) doesn't change.
-  - Total electric charge remains the same.
+  - **Conservation of Mass-Energy**: Total mass-energy doesn't change (E = mc²).
+  - **Conservation of Momentum**: Total momentum stays constant.
+  - **Conservation of Angular Momentum**: Total spin (angular momentum) doesn't change.
+  - **Conservation of Charge**: Total electric charge remains the same.
 
 - **Symmetry Matters:** Physics laws work the same everywhere and in every direction.
 
@@ -52,9 +52,9 @@ Four main forces control how particles interact:
 
 From these basics, we can understand more complex things like:
 
-- How heat and energy flow (Thermodynamics).
-- How lots of particles behave together (Statistical Mechanics).
-- How light works (Electromagnetism and Optics).
-- How the smallest bits of the universe interact (Quantum Field Theory).
+- **Thermodynamics**: How heat and energy flow.
+- **Statistical Mechanics**: How lots of particles behave together.
+- **Electromagnetism and Optics**: How light works.
+- **Quantum Field Theory**: How the smallest bits of the universe interact.
 
 By starting with these simple ideas, we can explain most of what happens in the physical world.
