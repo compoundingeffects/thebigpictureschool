@@ -14,7 +14,7 @@ nav_order: 1
 
 ## 2. Main Forces
 
-Four main forces control how pieces of things interact:
+Four main forces control how pieces of things (particles) interact with each other:
 
 1. **Gravity:** Pulls things together.
 2. **Electromagnetism:** Pushes or pulls electric pieces of things.
