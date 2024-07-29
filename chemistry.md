@@ -3,7 +3,6 @@ layout: default
 title: Chemistry
 parent: Natural Sciences
 nav_order: 2
-has_children: true
 ---
 
 # **Physics**
