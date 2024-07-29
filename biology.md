@@ -1,63 +1,64 @@
 ---
 layout: default
-title: Chemistry
+title: Biology
 parent: Natural Sciences
-nav_order: 2
+nav_order: 3
 ---
 
-# **Chemistry**
+# **Biology**
 
-## 1. Matter and Atoms
-**Fundamental Principle**: All matter is composed of atoms.
+## 1. Matter and Energy
 
-- **Atoms** are the smallest units of matter that retain the properties of an element. Each atom consists of a nucleus (containing protons and neutrons) and electrons that orbit the nucleus.
-- **Elements** are types of atoms distinguished by the number of protons in their nuclei. For example, hydrogen has one proton, while carbon has six.
+**Fundamental Principle:**
+All living things are composed of matter and require energy to maintain life.
 
-## 2. Subatomic Particles
-**Fundamental Principle**: Atoms are made up of three types of subatomic particles: protons, neutrons, and electrons.
+- **Atoms and Molecules:** At the most basic level, all organisms are made of atoms, which combine to form molecules. The key molecules in biology include water, proteins, lipids, carbohydrates, and nucleic acids.
 
-- **Protons** carry a positive charge.
-- **Neutrons** are neutral (no charge).
-- **Electrons** carry a negative charge.
+## 2. Cellular Basis of Life
 
-## 3. Quantum Mechanics
-**Fundamental Principle**: The behavior of electrons in atoms is described by quantum mechanics.
+**Fundamental Principle:**
+The cell is the basic unit of life.
 
-- **Electron Configuration**: Electrons occupy orbitals in an atom in a specific arrangement that minimizes the energy of the atom. These configurations determine the chemical properties of the element.
-- **Energy Levels and Orbitals**: Electrons reside in energy levels or shells, which are divided into orbitals. Each orbital can hold a maximum of two electrons with opposite spins.
+- **Cell Theory:** All living organisms are made up of cells. Cells arise from pre-existing cells.
+- **Cell Structure:** Cells are composed of a cell membrane, cytoplasm, and genetic material (DNA). Eukaryotic cells also have a nucleus and organelles.
+  
+## 3. Genetic Information
 
-## 4. Chemical Bonds
-**Fundamental Principle**: Atoms combine to form molecules by sharing or transferring electrons to achieve stable electron configurations.
+**Fundamental Principle:**
+Genetic information is stored in DNA and dictates the structure and function of organisms.
 
-- **Covalent Bonds**: Atoms share pairs of electrons. For example, in a water molecule (H₂O), each hydrogen atom shares an electron with the oxygen atom.
-- **Ionic Bonds**: Atoms transfer electrons from one to another, resulting in oppositely charged ions that attract each other. For example, in sodium chloride (NaCl), sodium donates an electron to chlorine.
-- **Metallic Bonds**: Metal atoms share a "sea" of electrons that are free to move around, which accounts for properties like electrical conductivity and malleability.
+- **DNA and Genes:** DNA is a molecule that carries the genetic instructions used in the growth, development, functioning, and reproduction of all living organisms. Genes are segments of DNA that encode specific proteins.
+- **Protein Synthesis:** The process by which cells build proteins based on the instructions in DNA involves transcription (copying DNA to mRNA) and translation (mRNA to protein).
 
-## 5. Chemical Reactions
-**Fundamental Principle**: Chemical reactions involve the rearrangement of atoms to form new substances.
+## 4. Biochemical Reactions
 
-- **Reactants and Products**: In a chemical reaction, reactants (starting materials) are transformed into products (new substances).
-- **Conservation of Mass**: In any chemical reaction, the total mass of the reactants equals the total mass of the products.
-- **Energy Changes**: Chemical reactions often involve changes in energy, typically in the form of heat. Reactions can be exothermic (release energy) or endothermic (absorb energy).
+**Fundamental Principle:**
+Biochemical reactions underpin all biological processes.
 
-## 6. Thermodynamics
-**Fundamental Principle**: The principles of thermodynamics govern the energy changes and spontaneity of chemical reactions.
+- **Metabolism:** The set of life-sustaining chemical reactions within the cells of living organisms. Metabolism includes catabolism (breaking down molecules to produce energy) and anabolism (synthesizing complex molecules from simpler ones).
+- **Enzymes:** Proteins that act as catalysts to speed up biochemical reactions, making them efficient and controlled.
 
-- **First Law of Thermodynamics**: Energy cannot be created or destroyed, only transferred or transformed.
-- **Second Law of Thermodynamics**: The total entropy (disorder) of a closed system can never decrease over time. Reactions tend to proceed in a direction that increases the overall entropy of the system plus its surroundings.
+## 5. Homeostasis
 
-## 7. Kinetics
-**Fundamental Principle**: The rate of chemical reactions is influenced by factors such as temperature, concentration, and the presence of catalysts.
+**Fundamental Principle:**
+Living organisms maintain a stable internal environment.
 
-- **Activation Energy**: The minimum energy required for a reaction to occur.
-- **Catalysts**: Substances that increase the rate of a reaction without being consumed by lowering the activation energy.
+- **Regulation and Feedback:** Homeostasis involves regulating internal conditions (e.g., temperature, pH, glucose levels) through feedback mechanisms. For example, the human body maintains a constant internal temperature through sweating and shivering.
 
-## 8. Molecular Interactions
-**Fundamental Principle**: The properties and behaviors of substances are influenced by intermolecular forces.
+## 6. Evolution
 
-- **Van der Waals Forces**: Weak attractions between molecules or parts of molecules.
-- **Hydrogen Bonds**: Strong dipole-dipole attractions involving hydrogen atoms bonded to electronegative atoms (like oxygen or nitrogen).
-- **Dipole-Dipole Interactions**: Attractions between oppositely charged regions of polar molecules.
+**Fundamental Principle:**
+Life evolves over time through processes such as natural selection.
 
-## Conclusion
-By understanding these fundamental principles, we can comprehend the vast and intricate field of chemistry. Each principle builds upon the previous, creating a framework that explains how matter interacts and transforms in the universe.
+- **Natural Selection:** The process where organisms better adapted to their environment tend to survive and produce more offspring. This is a key mechanism of evolution.
+- **Adaptation:** Traits that increase an organism’s chance of survival and reproduction become more common in a population over generations.
+
+## 7. Ecology
+
+**Fundamental Principle:**
+Organisms interact with each other and their environment.
+
+- **Ecosystems:** Biological communities of interacting organisms and their physical environment. 
+- **Energy Flow and Nutrient Cycles:** Energy flows through ecosystems in food chains and webs, while nutrients cycle through biogeochemical cycles (e.g., carbon cycle, nitrogen cycle).
+
+By breaking down biology into these first principles, we can understand the complex interactions and processes that define life. Each principle builds upon the previous one, creating a coherent picture of how biological systems operate from the atomic level to the complexity of ecosystems.
