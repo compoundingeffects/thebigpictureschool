@@ -18,8 +18,8 @@ Four main forces control how particles interact:
 
 1. **Gravity:** Pulls masses together.
 2. **Electromagnetism:** Acts between charged particles.
-3. **Strong Nuclear:** Holds atom cores together.
-4. **Weak Nuclear:** Causes some atoms to break down.
+3. **Strong Nuclear Force:** Holds atom cores together.
+4. **Weak Nuclear Force:** Causes some atoms to break down.
 
 ## 3. Key Rules
 
