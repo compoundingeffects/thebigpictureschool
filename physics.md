@@ -31,7 +31,7 @@ Four main forces control how particles interact:
 
 - **Symmetry Matters:** Physics laws work the same everywhere and in every direction.
 
-## 4. Fundamental Equations
+## 4. Key Equations
 
 - **Newton's Laws of Motion:**
   1. **First Law (Inertia)**: Things keep moving unless something stops them.
