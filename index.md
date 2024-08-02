@@ -11,8 +11,8 @@ The world is changing rapidly. A holistic perspective and nimble thinking are in
 ## Major Academic Disciplines and Fields of Study
 
 ### 1. Natural Sciences
-* Physics
 * Chemistry
+* Physics
 * Biology
 * Astronomy
 * Earth Sciences (Geology, Meteorology, Oceanography)
