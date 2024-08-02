@@ -12,8 +12,8 @@ The world is changing rapidly. A holistic perspective and nimble thinking are in
 
 ### 1. Natural Sciences
 * Chemistry
-* Physics
 * Biology
+* Physics
 * Astronomy
 * Earth Sciences (Geology, Meteorology, Oceanography)
 
