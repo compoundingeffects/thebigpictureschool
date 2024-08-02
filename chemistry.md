@@ -5,7 +5,7 @@ parent: Natural Sciences
 nav_order: 1
 ---
 
-## Chemistry
+## **Chemistry**
 
 ### **1. Everything is Made of Atoms**
 Imagine everything around you is made up of tiny LEGO blocks called **atoms**. These are so small you can't see them, but they're the building blocks of everything in the universe, from your pet cat to the air you breathe.
