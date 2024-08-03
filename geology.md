@@ -1,106 +1,104 @@
 ---
 layout: default
-title: Physics
-parent: Natural Sciences
-nav_order: 3
+title: Geology
+parent: Earth Sciences
+nav_order: 1
 ---
 
-## **Physics**
+## **Geology**
 
-### 1. Fundamental Entities
+### 1. **Fundamental Components**
 
-**Matter and Energy:** 
+#### Matter
 
-- **Matter** is anything that takes up space and has weight. Think of things like your toys, your pet, or even you. All of these are made of matter.
-- **Energy** is what makes things happen. It can make things move, light up, or heat up. When you ride a bike, eat food, or turn on a light, you're using energy.
+- **Atoms and Elements**: 
+  - Everything around us is made up of tiny particles called atoms. When atoms of the same type join together, they form elements. Think of elements as the building blocks of everything in the world, like LEGO pieces. Common elements in geology include silicon, oxygen, iron, and aluminum.
 
-**Elementary Particles:**
+- **Minerals**: 
+  - Minerals are natural, solid substances that form when elements come together in specific ways. Each mineral has its own unique structure and color. Imagine minerals as colorful crystals that make up rocks.
 
-- Matter is made up of tiny building blocks called particles. The smallest ones are called **quarks** and **electrons**. Quarks join together to make protons and neutrons, which are found in the nucleus of atoms.
+#### Energy
 
-### 2. Fundamental Forces
+- **Thermal Energy**: 
+  - This is heat energy. Inside the Earth, it's super hot, and this heat makes rocks melt into liquid rock called magma. This heat helps create new land and causes volcanoes to erupt.
 
-There are four main forces that control how particles interact and behave in the universe:
+- **Mechanical Energy**: 
+  - This energy involves forces like pushing and pulling. It helps move rocks around and shape the Earth’s surface, like when mountains form or rocks get squeezed.
 
-**Gravitational Force:**
+### 2. **Processes**
 
-- This is the force that pulls objects toward each other. It's why apples fall from trees and why the Earth orbits the Sun. It's like an invisible magnet that pulls things with mass together.
+#### Rock Cycle
 
-**Electromagnetic Force:**
+- **Formation**: 
+  - Rocks are always changing. The rock cycle is like a big recycling process that turns rocks into different types over time:
+  
+  - **Igneous Rocks**: These form when magma (hot, melted rock) cools down and hardens. If it cools quickly outside a volcano, it forms rocks like basalt. If it cools slowly inside the Earth, it forms rocks like granite.
+  
+  - **Sedimentary Rocks**: These form when tiny pieces of other rocks or remains of plants and animals get pressed together over a long time. They often form layers, like a stack of pancakes.
+  
+  - **Metamorphic Rocks**: These form when existing rocks get changed by heat and pressure deep inside the Earth. It’s like baking a cake, where heat and pressure change the ingredients into something new.
 
-- This force acts between things with electric charges. It makes magnets stick to your fridge and allows electricity to flow through wires. It's also why light bulbs glow.
+#### Plate Tectonics
 
-**Strong Nuclear Force:**
+- **Continental Drift**: 
+  - The continents (huge land areas) are like giant puzzle pieces that slowly move around on the Earth’s surface over millions of years.
 
-- This force holds the nucleus of an atom together. It keeps protons and neutrons tightly packed inside the nucleus, even though protons naturally repel each other because they have the same charge.
+- **Seafloor Spreading**: 
+  - New ocean floor forms when magma rises at mid-ocean ridges, creating new crust and pushing old crust away, like a conveyor belt in the ocean.
 
-**Weak Nuclear Force:**
+- **Subduction**: 
+  - When two tectonic plates meet, one might slide under the other and sink into the Earth’s mantle. This can cause earthquakes and volcanoes.
 
-- This force is involved in certain kinds of radioactive decay, where parts of an atom's nucleus change. It’s weaker than the strong nuclear force and acts over a very short range.
+- **Mountain Building**: 
+  - Mountains form when tectonic plates push against each other, crumpling up rocks like pushing two pieces of paper together.
 
-### 3. Fundamental Principles
+#### Erosion and Weathering
 
-**Conservation Laws:**
+- **Weathering**: 
+  - This is the process that breaks down rocks into smaller pieces. It can happen in two ways:
+  
+  - **Physical Weathering**: Rocks break apart due to physical forces like freezing and thawing water or tree roots growing into them.
 
-These laws tell us that certain things in the universe always stay the same:
+  - **Chemical Weathering**: Rocks change their structure because of chemical reactions, like when rainwater (which can be slightly acidic) dissolves minerals in the rock.
 
-- **Conservation of Mass-Energy:** The total amount of mass and energy in the universe stays the same. You can turn mass into energy and energy into mass, but the total doesn't change. Think of how ice melts into water; the amount of water stays the same.
-- **Conservation of Momentum:** Momentum is a measure of how hard it is to stop something that is moving. In a game of pool, when one ball hits another, the total momentum stays the same.
-- **Conservation of Angular Momentum:** If something is spinning, it will keep spinning at the same speed unless something changes it. This is why a spinning top keeps spinning until friction slows it down.
-- **Conservation of Charge:** Electric charge doesn’t change. If you start with a certain amount of positive and negative charge, you’ll end with the same amount.
+- **Erosion**: 
+  - Erosion moves those broken pieces of rock from one place to another, usually by wind, water, or ice. Think of it as nature’s way of carrying things around.
 
-**Symmetry and Invariance:**
+### 3. **Time**
 
-- These ideas mean that the laws of physics work the same everywhere and at all times. If you do an experiment here or on the other side of the galaxy, it should turn out the same if everything else is equal.
+#### Geological Time Scale
 
-### 4. Fundamental Equations
+- **Deep Time**: 
+  - Geology looks at really long periods, often millions or billions of years. This helps us understand how Earth has changed over time, way before humans existed.
 
-**Newton's Laws of Motion:**
+- **Dating Methods**: 
+  - Scientists use special techniques to figure out how old rocks are, like looking at radioactive elements inside them. It’s like using a clock to measure time but for rocks.
 
-These are rules that explain how objects move:
+### 4. **Earth's Structure**
 
-1. **First Law (Inertia):** An object at rest stays at rest, and an object in motion stays in motion, unless something else forces it to stop or change direction. Imagine pushing a toy car; it stops only if you stop pushing it or it hits something.
-   
-2. **Second Law (F = ma):** The force on an object is equal to its mass times its acceleration. This means that heavier things need more force to move. It’s why it’s easier to push an empty cart than a full one.
+#### Layers
 
-3. **Third Law (Action-Reaction):** For every action, there is an equal and opposite reaction. If you jump off a boat, you push the boat backward as you go forward.
+- **Crust**: 
+  - This is the thin, outer layer where we live. It’s like the skin of an apple.
 
-**Maxwell's Equations:**
+  - **Continental Crust**: Thicker and less dense, made of rocks like granite.
 
-- These equations describe how electric and magnetic fields work and how they create light. They explain how magnets and electricity are connected.
+  - **Oceanic Crust**: Thinner and denser, made of rocks like basalt.
 
-**Schrödinger Equation:**
+- **Mantle**: 
+  - The thick layer below the crust. It’s mostly solid rock but can flow slowly over time, like very thick soup.
 
-- This is a rule in quantum mechanics that predicts how tiny particles, like electrons, behave. It’s a bit like a map for how particles move around in a space.
+  - **Upper Mantle**: Part of this layer is the asthenosphere, which is partly melted and can move around.
 
-**Einstein's Field Equations:**
+  - **Lower Mantle**: More solid and extends down to the core.
 
-- These describe how gravity works according to Einstein’s theory of general relativity. They explain how massive objects like stars and planets bend space and time around them.
+- **Core**: 
+  - The innermost part of the Earth.
 
-### 5. Fundamental Concepts in Quantum Mechanics
+  - **Outer Core**: Liquid metal, mainly iron and nickel. Its movement creates Earth’s magnetic field, which helps protect us from the Sun's harmful radiation.
 
-**Wave-Particle Duality:**
+  - **Inner Core**: Solid metal because it’s under so much pressure, even though it’s incredibly hot.
 
-- Tiny particles, like electrons, can act like both particles and waves. It’s like how water can be ice or steam, depending on conditions.
+### Summary
 
-**Uncertainty Principle:**
-
-- We can’t know everything about a tiny particle at once. If we know where it is exactly, we can't know exactly how fast it’s going, and vice versa. It's like trying to know the exact position and speed of a fish swimming in a pond.
-
-**Quantum Entanglement:**
-
-- Particles can become linked, so that when something happens to one, it affects the other, even if they are far apart. It's like having a pair of magic dice that always show the same number, no matter how far apart they are.
-
-### 6. Building Up from First Principles
-
-Using these basic ideas, scientists can explain more complex things:
-
-- **Thermodynamics:** This is the study of heat and energy transfer. It explains why ice melts, how engines work, and why your hands get warm when you rub them together.
-
-- **Statistical Mechanics:** This connects the tiny particles in matter to how we see and feel things, like temperature and pressure. It explains why a balloon inflates when you blow into it.
-
-- **Electromagnetism and Optics:** These fields study light and electromagnetic waves. They explain why the sky is blue and how glasses and cameras work.
-
-- **Quantum Field Theory:** This combines ideas from quantum mechanics and relativity to explain how particles like electrons and photons interact at very tiny scales.
-
-By starting with these simple, basic ideas, we can understand how everything in the universe works, from the smallest particles to the largest galaxies.
+Geology is the study of the Earth, focusing on how the planet is built and changes over time. It’s about understanding the rocks, minerals, and processes that make up our world. By breaking down the Earth into its basic parts, we can see how everything is connected and constantly changing, like one big puzzle that’s always being rearranged.
