@@ -1,50 +1,51 @@
 ---
 layout: default
-title: Chemistry
+title: Astronomy
 parent: Natural Sciences
-nav_order: 1
+nav_order: 4
 ---
 
-## **Chemistry**
+## **Astronomy**
 
-### **1. Everything is Made of Atoms**
-Imagine everything around you is made up of tiny LEGO blocks called **atoms**. These are so small you can't see them, but they're the building blocks of everything in the universe, from your pet cat to the air you breathe.
+### 1. **Looking at the Sky**
 
-### **2. Atoms Have Parts**
-Atoms themselves are made of even smaller parts:
+**Basic Idea**: We can see things in the sky with our eyes and special tools.
+- **Our Eyes**: We use our eyes to see the light from the stars and the moon. This is just like how we see light from a flashlight or the sun.
+- **Telescopes**: These are special tools that help us see things far away, like stars and planets, much clearer than we can with our eyes alone.
 
-- **Protons**: These have a positive charge, kind of like a "+" sign.
-- **Neutrons**: These have no charge, like a "0."
-- **Electrons**: These have a negative charge, like a "-" sign. They zoom around the outside of the atom.
+### 2. **Light and Colors**
 
-### **3. Different Atoms Make Different Elements**
-There are different kinds of atoms called **elements**. Each element has a different number of protons. For example, hydrogen has one proton, and oxygen has eight. When you combine hydrogen and oxygen, you get water!
+**Basic Idea**: Light is more than just what we see.
+- **Invisible Light**: Light comes in different kinds. Some we can see (like rainbows), and some we can't (like X-rays at the doctor’s office).
+- **Detecting Light**: Astronomers use different kinds of telescopes to see different types of light to learn more about space objects.
 
-### **4. Atoms Like to Stick Together**
-Atoms can join together to form **molecules**, like LEGO bricks clicking together to build something bigger.
+### 3. **Things in Space**
 
-- **Covalent Bonds**: This is when atoms share electrons. Imagine two kids sharing a pair of headphones.
-- **Ionic Bonds**: This is when one atom gives an electron to another, like one kid giving a toy to another.
+**Basic Idea**: Space has lots of different things.
+- **Stars**: Big balls of burning gas, like our sun. They make their own light and heat.
+- **Planets**: Big, round objects that travel around stars. Earth is a planet.
+- **Moons**: Smaller rocks that travel around planets.
+- **Galaxies**: Huge collections of stars, planets, and dust held together by gravity.
+- **Nebulae**: Cloudy areas in space where new stars are born.
 
-### **5. Chemical Reactions**
-When atoms and molecules mix and change, it's called a **chemical reaction**. It's like baking a cake: you start with ingredients (reactants) and end up with a cake (products).
+### 4. **Forces and How Things Move**
 
-- **Exothermic Reactions**: These reactions give off heat, like a campfire.
-- **Endothermic Reactions**: These absorb heat, like melting ice.
+**Basic Idea**: Space has rules about how things move and stay together.
+- **Gravity**: A force that pulls things toward each other, like how Earth pulls us down so we don't float away.
+- **Orbits**: Paths that planets and moons take around stars and planets because of gravity.
 
-### **6. Energy and Reactions**
-Chemical reactions need a certain amount of energy to get started, like pushing a ball up a hill before it can roll down. Sometimes, adding heat can speed things up, like cooking food on a stove.
+### 5. **The Big Universe**
 
-### **7. Mixing Molecules**
-The way molecules interact with each other affects their properties. 
+**Basic Idea**: The universe is huge and getting bigger.
+- **Big Bang**: Scientists believe the universe started from a tiny point that exploded outwards a long time ago, and it’s still growing.
+- **Old Light**: When we look at stars, we see light that traveled a long way, taking many years to reach us, showing us how things were long ago.
 
-- **Van der Waals Forces**: Weak attractions that can stick molecules together, like static electricity making your hair stand up.
-- **Hydrogen Bonds**: Stronger attractions, like the way water molecules stick together to form droplets.
+### 6. **Using Science to Understand Space**
 
-### **8. Science of Changes**
-Chemistry is all about understanding how things change and transform, whether it's the fizz in a soda or the rust on a bike.
+**Basic Idea**: We use experiments and observations to learn about space.
+- **Asking Questions**: Scientists come up with ideas about how things work, like why stars shine.
+- **Testing Ideas**: They observe space and conduct experiments to see if their ideas are correct, like using telescopes to watch stars and planets.
 
-### **9. Nature's Recipes**
-Think of chemistry as nature’s cookbook, with recipes that explain how different ingredients (atoms and molecules) combine to make everything around us.
+### Summary
 
-By understanding these simple ideas, you get a peek into how the world works at a tiny, invisible level!
+Astronomy is like being a detective of the sky. We use our eyes and telescopes to see different kinds of light, discovering what stars, planets, and other space objects are like. We follow the rules of space, like gravity and motion, to understand how everything moves and interacts. By looking at the universe’s beginnings and changes, we get a bigger picture of how everything fits together. Through asking questions and testing ideas, we continue to learn more about the amazing universe we live in!
