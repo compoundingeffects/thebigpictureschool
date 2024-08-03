@@ -2,6 +2,7 @@
 layout: default
 title: Geology
 parent: Earth Sciences
+grand_parent: Natural Sciences
 nav_order: 1
 ---
 
