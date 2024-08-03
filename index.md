@@ -6,7 +6,7 @@ nav_order: 1
 
 # **Welcome to Big Picture School**
 
-The world is changing rapidly. A holistic perspective and nimble thinking are increasingly crucial. Big Picture School addresses this need by using AI-assisted content to teach core principles across major disciplines, encouraging interdisciplinary thought. We aim to inspire a new generation of thinkers who can tackle complex problems, foster innovation, and drive positive change. Whether you're a student, a professional, or a lifelong learner, we want to help you build a comprehensive understanding of the world.
+The world is changing rapidly. A holistic perspective and nimble thinking are increasingly crucial. Big Picture School addresses this need by using AI-assisted content in plain English to teach core principles across major disciplines, encouraging interdisciplinary thought. We aim to inspire a new generation of thinkers who can tackle complex problems, foster innovation, and drive positive change. Whether you're a student, a professional, or a lifelong learner, we want to help you build a comprehensive understanding of the world.
 
 ## Major Academic Disciplines and Fields of Study
 
