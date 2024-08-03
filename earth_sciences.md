@@ -1,63 +1,67 @@
 ---
 layout: default
-title: Chemistry
+title: Earth Sciences
 parent: Natural Sciences
-nav_order: 1
+nav_order: 5
+has_children: true
 ---
 
-## **Chemistry**
+## **Earth Sciences**
 
-### 1. Matter and Atoms
-**Basic Idea**: Everything around us is made up of tiny building blocks called atoms.
+### 1. Matter and Energy
 
-- **Atoms**: Think of atoms as tiny LEGO bricks. Just like you use LEGO bricks to build different things, atoms come together to make everything you see, from your pencil to the air you breathe.
-- **Elements**: These are like different types of LEGO bricks. Each element (like hydrogen or oxygen) is a different type of atom. What makes them different is how many protons they have. Protons are tiny particles inside the atom that carry a positive charge.
+- **Matter**: Everything around us, like rocks, water, air, and even living things, is made of matter. Matter is made up of tiny particles called atoms, which combine to form everything you see.
+  
+- **Energy**: Energy is what makes things happen. The Sun provides most of the energy for Earth, making plants grow and powering the weather. Inside the Earth, there’s also energy from heat, which helps volcanoes erupt and moves the land around.
 
-### 2. Subatomic Particles
-**Basic Idea**: Atoms are made up of even smaller particles.
+### 2. Fundamental Forces
 
-- **Protons**: These are like the positive (+) charge in the atom. They live in the center (nucleus) of the atom.
-- **Neutrons**: These particles are neutral, meaning they don't have any charge. They also hang out in the nucleus with the protons.
-- **Electrons**: Imagine tiny, negatively charged (-) particles zooming around the outside of the atom, like bees around a hive.
+- **Gravitational Force**: Gravity is the force that pulls things toward each other. It keeps us on the ground, makes rain fall, and holds the Moon in orbit around Earth. It’s also what makes the oceans have tides.
 
-### 3. Quantum Mechanics
-**Basic Idea**: Electrons don't just fly around randomly; they have specific areas where they like to be.
+- **Electromagnetic Force**: This force makes atoms stick together to form molecules. It helps create everything around us, like water, rocks, and even the air we breathe. It also powers electricity and magnetism.
 
-- **Electron Configuration**: Electrons fill up areas around the atom in a certain order, like how people fill up seats on a bus.
-- **Energy Levels and Orbitals**: These are like floors and rooms in a building. Electrons can only be in certain rooms (orbitals) on certain floors (energy levels).
+### 3. Earth's Structure
 
-### 4. Chemical Bonds
-**Basic Idea**: Atoms stick together to form molecules, like how friends hold hands.
+- **Core, Mantle, Crust**: Think of Earth like an onion with layers. The center is the core, made of really hot metal. The next layer is the mantle, which is made of rock that flows slowly. The outer layer is the crust, which is where we live, with all the continents and oceans.
 
-- **Covalent Bonds**: Atoms share electrons like sharing toys. For example, in a water molecule (H₂O), the oxygen atom shares electrons with the hydrogen atoms.
-- **Ionic Bonds**: Atoms give and take electrons, like trading baseball cards. For example, in table salt (NaCl), sodium gives an electron to chlorine, and they stick together because opposites attract.
-- **Metallic Bonds**: Metals have a bunch of electrons that are shared among all the atoms, kind of like everyone putting their toys in a big toy box that everyone can use.
+### 4. Plate Tectonics
 
-### 5. Chemical Reactions
-**Basic Idea**: Chemical reactions are like baking a cake, where ingredients (reactants) are mixed to create something new (products).
+- **Lithosphere**: The crust and the upper part of the mantle make up the lithosphere, which is broken into pieces called tectonic plates. These plates float on the softer rock of the mantle.
 
-- **Reactants and Products**: Reactants are like the ingredients you start with, and products are the final cake you get after baking.
-- **Conservation of Mass**: When you bake, the total amount of stuff you have at the end (cake) is the same as what you started with (ingredients), just rearranged.
-- **Energy Changes**: Some reactions give off energy, like a warm oven, while others need energy to happen, like making ice cream.
+- **Plate Movement**: Tectonic plates move very slowly. Sometimes they crash into each other, pull apart, or slide past each other. This movement causes earthquakes, makes mountains, and forms volcanoes.
 
-### 6. Thermodynamics
-**Basic Idea**: Thermodynamics is about how energy moves around.
+### 5. Rock Cycle
 
-- **First Law of Thermodynamics**: Energy is like money; you can't make it from nothing or destroy it, only change how you use it.
-- **Second Law of Thermodynamics**: Over time, things tend to get more mixed up and messy. This is why your room gets messy if you don't tidy it up.
+- **Formation and Transformation**: Rocks can change from one type to another. Igneous rocks form when magma (hot liquid rock) cools down. Sedimentary rocks form from small pieces of other rocks that are pressed together. Metamorphic rocks form when existing rocks are changed by heat and pressure.
 
-### 7. Kinetics
-**Basic Idea**: Kinetics is about how fast reactions happen.
+- **Weathering and Erosion**: Weathering breaks rocks into smaller pieces, and erosion moves them to new places, like when water carries sand to a beach.
 
-- **Activation Energy**: This is like the push you need to get a swing going. It's the energy needed to start a reaction.
-- **Catalysts**: These are like shortcuts that help reactions happen faster without getting used up, like a slide helping you get down faster.
+### 6. Hydrosphere
 
-### 8. Molecular Interactions
-**Basic Idea**: Molecules have little forces that make them attract or repel each other.
+- **Water Cycle**: Water on Earth is always moving in a cycle. It evaporates from oceans, forms clouds, falls as rain, and flows back to the sea in rivers. This cycle is powered by the Sun and gravity.
 
-- **Van der Waals Forces**: Weak forces that make molecules stick together, like static cling making your clothes stick.
-- **Hydrogen Bonds**: Stronger than van der Waals forces, these are like magnets attracting the ends of water molecules to each other.
-- **Dipole-Dipole Interactions**: Molecules that have slightly charged ends stick to each other, like the north and south poles of magnets.
+- **Oceans and Atmosphere**: Oceans cover most of the Earth and help control the climate by storing heat. The atmosphere is the layer of gases around Earth that we breathe and that helps make weather.
 
-### Conclusion
-By understanding these basic ideas, you can see how chemistry is like building with LEGO bricks, baking cakes, and playing with magnets. It explains how everything in the world is made and how it changes!
+### 7. Atmosphere
+
+- **Composition and Layers**: The atmosphere is mostly made of nitrogen and oxygen. It has different layers, like the troposphere, where we live and where weather happens, and the stratosphere, where planes fly and where the ozone layer protects us from the Sun’s harmful rays.
+
+- **Weather and Climate**: Weather is what happens in the atmosphere day-to-day, like rain or sunshine. Climate is the average weather in a place over a long time.
+
+### 8. Biosphere
+
+- **Life and Ecosystems**: The biosphere includes all living things, like plants, animals, and humans. These organisms live in ecosystems, where they interact with each other and their environment to survive.
+
+- **Biogeochemical Cycles**: Elements like carbon and nitrogen move through the air, water, soil, and living things. This movement helps keep ecosystems healthy and supports life.
+
+### 9. Geological Time
+
+- **Deep Time**: Earth is really old, about 4.5 billion years! Over this time, continents have moved, mountains have formed and eroded, and many different kinds of plants and animals have lived and gone extinct.
+
+- **Dating Methods**: Scientists figure out how old things are by looking at rocks and fossils. They use methods like radiometric dating, which looks at tiny particles in rocks that change over time.
+
+### 10. Human Impact
+
+- **Anthropogenic Changes**: Humans have changed Earth in many ways, like cutting down forests, polluting air and water, and using fossil fuels like coal and oil. These changes can lead to problems like climate change and loss of animal habitats.
+
+By understanding these basic ideas, we can better appreciate how our planet works and how everything is connected. It helps us see why taking care of Earth is important for the future.
