@@ -18,17 +18,17 @@ nav_order: 3
    - Weak Nuclear Force: This is involved in certain types of radioactive decay and how neutrinos (very tiny particles) behave.
 
 4. **Conservation Laws**: These are rules that say certain things always stay the same in a closed system:
-   a) Mass-Energy: You can change mass into energy (like in nuclear reactions) or energy into mass, but the total amount stays the same.
-   b) Momentum: The total amount of motion in a system doesn't change unless something from outside affects it.
-   c) Angular Momentum: The total amount of spinning motion in a system stays the same.
-   d) Charge: The total electric charge in a system always remains constant.
+   - Mass-Energy: You can change mass into energy (like in nuclear reactions) or energy into mass, but the total amount stays the same.
+   - Momentum: The total amount of motion in a system doesn't change unless something from outside affects it.
+   - Angular Momentum: The total amount of spinning motion in a system stays the same.
+   - Charge: The total electric charge in a system always remains constant.
 
 5. **Symmetry and Invariance**: The laws of physics work the same way no matter where you are or which direction you're facing. This idea leads to some of the conservation laws mentioned above.
 
 6. **Newton's Laws of Motion**: These describe how objects move:
-   a) First Law: Things keep moving or stay still unless a force acts on them.
-   b) Second Law: The more force you apply to an object, the more it accelerates. Heavier objects need more force to accelerate the same amount.
-   c) Third Law: When you push on something, it pushes back with equal force.
+   - First Law: Things keep moving or stay still unless a force acts on them.
+   - Second Law: The more force you apply to an object, the more it accelerates. Heavier objects need more force to accelerate the same amount.
+   - Third Law: When you push on something, it pushes back with equal force.
 
 7. **Maxwell's Equations**: These are rules that describe how electricity and magnetism work and how they're related to each other.
 
@@ -43,9 +43,9 @@ nav_order: 3
 12. **Quantum Entanglement**: Sometimes two particles can be connected in a special way so that what happens to one instantly affects the other, no matter how far apart they are.
 
 13. **Building Up from Basics**: By using these basic ideas, scientists can explain more complicated things:
-   a) Thermodynamics: This explains how heat and energy work in big systems.
-   b) Statistical Mechanics: This connects how individual particles behave to how big groups of particles behave.
-   c) Electromagnetism and Optics: This explains how light and electromagnetic waves behave.
-   d) Quantum Field Theory: This combines ideas about very small things with ideas about very fast things to explain how the tiniest particles in the universe behave.
+    - Thermodynamics: This explains how heat and energy work in big systems.
+    - Statistical Mechanics: This connects how individual particles behave to how big groups of particles behave.
+    - Electromagnetism and Optics: This explains how light and electromagnetic waves behave.
+    - Quantum Field Theory: This combines ideas about very small things with ideas about very fast things to explain how the tiniest particles in the universe behave.
 
 By starting with these basic ideas and building up, scientists can explain a wide range of things that happen in the world around us.
