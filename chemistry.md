@@ -5,7 +5,7 @@ parent: Natural Sciences
 nav_order: 1
 ---
 
-### Chemistry
+## Chemistry
 
 1. **Matter and Atoms**: Everything around us is made up of tiny building blocks called atoms. These atoms are like the Lego pieces of the universe. Different types of atoms are called elements, and they're distinguished by how many protons they have in their center (nucleus). For example, hydrogen is the simplest element with just one proton.
 
